@@ -21,7 +21,7 @@ I would recommend expanding the criteria for this mentorship program, or creatin
 ## **Summary**
 
 *How many roles will need to be filled as the "silver tsunami" begins to make an impact?*
-Pewlett-Hackard should expect 72,458 roles to be impacted (based on the querie pulled) within this "silver tsunami". The majority of the roles are within senior, lead and manager positions. Though the impact will not be seen instantaneously, the numbers are significant and should be acknowledged. Based on the company's history, it is likely that the majority of the positions will be filled internally, and what Pewlett-Hackard will likely be hiring is entry level positions to back-fill positions which were promoted. 
+- Pewlett-Hackard should expect 72,458 roles to be impacted (based on the querie pulled) within this "silver tsunami". The majority of the roles are within senior, lead and manager positions. Though the impact will not be seen instantaneously, the numbers are significant and should be acknowledged. Based on the company's history, it is likely that the majority of the positions will be filled internally, and what Pewlett-Hackard will likely be hiring is entry level positions to back-fill positions which were promoted. 
 
 *Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?*
-I believe that there are an adequate number of retirement-ready employees to create a mentorship program, and in fact, I would recommend expanding the criteria of the mentorship program, since there are quite a few less mentees than retirees. 
+- I believe that there are an adequate number of retirement-ready employees to create a mentorship program, and in fact, I would recommend expanding the criteria of the mentorship program, since there are quite a few less mentees than retirees. 
